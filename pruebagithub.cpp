@@ -2,5 +2,5 @@
 
 int main ()
 {
-   std::cout<< "Que tal profe, aquí probando el github" 
+   std::cout<< "Que tal profe, aquí probando el github";
 }
