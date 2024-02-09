@@ -1,3 +1,12 @@
+/* --------------------
+NOMBRE: Diego Armando Naveja López
+FECHA: 2/2/24
+PROGRAMA: Ciclos Numericos
+Universidad De Guadalajara//Centro Universitario de los Altos//Ing. en Computación//2° Semestre
+PROFESOR: Carlos Javier Cruz Franco
+DESCRIPCIÓN: El usuario ingresa un número y dependiendo de cual ingrese se imprimirá una serie de numeros de 5 en 5 o 10 en 10
+----------------------- */
+
 #include <stdio.h>
 
 int validar (int d)
@@ -6,7 +15,7 @@ int validar (int d)
     {
         if (d < 0)
         {
-            printf("ERROR. Ingresa solo números enteros. Intentalo de nuevo.""\n");
+            printf("ERROR. Ingresa solo numeros enteros. Intentalo de nuevo.""\n");
             printf(">>> ");
                 fflush(stdin);
                 scanf("%i", &d);
