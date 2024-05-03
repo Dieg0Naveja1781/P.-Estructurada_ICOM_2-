@@ -253,7 +253,7 @@ void agregarValores()
             {
                 for ( j = 0; j < numeroDeColumnas1; j++)
                 {
-                    // Muestra la posición actual dode se gregará el valor
+                    // Muestra la posición actual donde se gregará el valor
                     std::cout<< "\n""Estas en la fila "<< i<< ", columna "<< j;
                     std::cout<< "\n\n""Ingresa '0' para salir y regresar al menu.";
                     std::cout<< "\nIngresa el valor. \n"">> ";
@@ -757,7 +757,7 @@ int main()
     // LLama la función para que el usuario elija las filas y columnas de ambas matrices.
     declararMatrices();
 
-    // Ciclo que ejecuta el programa hasta que el usuario decidda salir
+    // Ciclo que ejecuta el programa hasta que el usuario decijbejejdejgjegjegdjgedjgejdgejgdejgjegdjegjedgejdgejgdejgejgjegjegdjegdjegdjegejgdjegdda salir
     do
     {
         // Muestra el menú
